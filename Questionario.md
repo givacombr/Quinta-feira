@@ -16,4 +16,5 @@
 8 - O que é pull request ?
 	R. As solicitações de pull permitem que você informe outras pessoas sobre as alterações por push feitas em uma ramificação de um repositório no GitHub, onde uma pessoa ou equipe irá revisar seu projeto.
 9 - O que é fork ?
+	R. Um fork(divisão ou separação) é um novo repositório que compartilha configurações de código e visibilidade com o repositório "upstream" original.
 10 - O que é um VCS ?
