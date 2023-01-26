@@ -18,3 +18,4 @@
 9 - O que é fork ?
 	R. Um fork(divisão ou separação) é um novo repositório que compartilha configurações de código e visibilidade com o repositório "upstream" original.
 10 - O que é um VCS ?
+	R. Um sistema de controle de versão.
