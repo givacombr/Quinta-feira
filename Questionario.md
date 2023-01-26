@@ -6,6 +6,7 @@
 3 - O que é um repositório ?
 	R. É uma pasta os arquivos dos projetos.
 4 - O que é merge ?
+	R. É uma mesclagem ou fundir.
 5 - O que é pull ?
 6 - O que é push ?
 7 - O que é branch ?
