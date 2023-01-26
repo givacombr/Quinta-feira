@@ -8,6 +8,7 @@
 4 - O que é merge ?
 	R. É uma mesclagem ou fundir.
 5 - O que é pull ?
+	R. Trazer alterações do repositório remoto para o repositório local.
 6 - O que é push ?
 7 - O que é branch ?
 8 - O que é pull request ?
