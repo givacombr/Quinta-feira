@@ -4,6 +4,7 @@
 2 - O que é commit ?
 	R. Empacotamento de alterações.
 3 - O que é um repositório ?
+	R. É uma pasta os arquivos dos projetos.
 4 - O que é merge ?
 5 - O que é pull ?
 6 - O que é push ?
