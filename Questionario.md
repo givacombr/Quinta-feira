@@ -10,6 +10,7 @@
 5 - O que é pull ?
 	R. Trazer alterações do repositório remoto para o repositório local.
 6 - O que é push ?
+	R. Enviar as informações que foram empactoadas para o repositório remoto.
 7 - O que é branch ?
 8 - O que é pull request ?
 9 - O que é fork ?
