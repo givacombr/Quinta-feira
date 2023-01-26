@@ -1,4 +1,6 @@
+
 1 - O que é clone ?
+	R. É uma cópia do repositório remoto para a máquina local.
 2 - O que é commit ?
 3 - O que é um repositório ?
 4 - O que é merge ?
