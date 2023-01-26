@@ -12,6 +12,7 @@
 6 - O que é push ?
 	R. Enviar as informações que foram empactoadas para o repositório remoto.
 7 - O que é branch ?
+	R. Realizar alterações sem comprometer o código original, eliminando qualquer risco de problemas.
 8 - O que é pull request ?
 9 - O que é fork ?
 10 - O que é um VCS ?
