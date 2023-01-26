@@ -14,5 +14,6 @@
 7 - O que é branch ?
 	R. Realizar alterações sem comprometer o código original, eliminando qualquer risco de problemas.
 8 - O que é pull request ?
+	R. As solicitações de pull permitem que você informe outras pessoas sobre as alterações por push feitas em uma ramificação de um repositório no GitHub, onde uma pessoa ou equipe irá revisar seu projeto.
 9 - O que é fork ?
 10 - O que é um VCS ?
